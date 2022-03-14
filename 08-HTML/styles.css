@@ -1,0 +1,22 @@
+h1 {
+    color:coral;
+}
+
+img {
+    width:400px;
+}
+
+#ThirdDiv {
+    height:600px;
+    width:500px;
+    background-color:blueviolet;
+    padding: 50px;
+    border:15px dashed pink;
+
+
+}
+
+#SpanId {
+    Font-size:18px;
+    margin:50px
+}
